@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build --no-cache -t didstopia/rust-server:latest .
+docker build --no-cache -t stuhin/rust-server:latest .
